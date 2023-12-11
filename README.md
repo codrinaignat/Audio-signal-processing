@@ -18,3 +18,7 @@ FTS = High-Pass Filter
 FTB = Band-Pass Filter
 
 FOB = Band-Stop Filter
+
+Full documentation of the project in Romanian:
+
+https://electronicaplicata.wordpress.com/2023/12/03/software-defined-radio-sdr-pentru-incepatori-aplicatii-si-explicatii/
